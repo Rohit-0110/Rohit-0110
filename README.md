@@ -1,83 +1,56 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hello, I'm Rohit!
 
-###
+Welcome to my GitHub profile! I'm a DevOps Engineer with a strong focus on automation, continuous integration/continuous deployment (CI/CD), and cloud infrastructure. My goal is to bridge the gap between development and operations to deliver high-quality software efficiently.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="centos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="groovy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="30" alt="subversion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Docker](https://img.shields.io/badge/Platform-Docker-informational?style=flat&logo=docker&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
+![AWS EKS](https://img.shields.io/badge/Orchestration-AWS%20EKS-informational?style=flat&logo=amazon-eks&color=232F3E)
+![Helm](https://img.shields.io/badge/Orchestration-Helm-informational?style=flat&logo=helm&color=0F1A33)
+[![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&color=D24939)](https://www.jenkins.io/)
+[![GitLab CI/CD](https://img.shields.io/badge/CI/CD-GitLab-informational?style=flat&logo=gitlab&color=FC6D26)](https://docs.gitlab.com/ee/ci/)
+![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&color=F05032)
+[![Ansible](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible&color=EE0000)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&color=623CE4)](https://www.terraform.io/)
+[![RHCSA](https://img.shields.io/badge/Certification-RHCSA-informational?style=flat&logo=redhat&color=EE0000)](https://www.redhat.com/en/services/certification/rhcsa)
+[![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnubash&color=4EAA25)](https://www.gnu.org/software/bash/)
+[![YAML](https://img.shields.io/badge/Markup-YAML-informational?style=flat&logo=yaml&color=CB171E)](https://yaml.org/)
+[![Groovy](https://img.shields.io/badge/Scripting-Groovy-informational?style=flat&logo=apachegroovy&color=4298B8)](https://groovy-lang.org/)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&color=E6522C)
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&color=F0B800)
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-</div>
 
-###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+
+## 🚀 About Me
+
+- 🌍 Based in India
+- 💻 Experienced in [Docker, Kubernetes, AWS, GitLab, Jenkins, Terraform]
+- 🔧 Skilled in scripting languages like [Python, Bash]
+- 📈 Passionate about improving system reliability and performance
+- 🤝 Advocate for collaboration and communication between teams
+- 🌱 Continuously learning and empowering others through mentorship and collaboration.
+- 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Cloud Platforms:** AWS, Azure
+- **Containerization:** Docker, Kubernetes
+- **CI/CD Tools:** Jenkins, GitLab CI
+- **Infrastructure as Code:** Terraform, Ansible
+- **Monitoring & Logging:** Prometheus, Grafana, EFK/ELK Stack
+- **Version Control:** Git, GitHub, GitLab
+
+## 📫 Get in Touch
+
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me:
+
+- 📧 Email: vishwakarmarohit750@gmail.com
+
+Thank you for visiting my GitHub profile! 
